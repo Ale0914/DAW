@@ -1,16 +1,26 @@
 {
-  "name": "proyecto-daw",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.20.2",
-    "express": "^4.18.2"
-  }
+  "tecnico": [
+    "Lenguaje de marcado y estilo web",
+    "Programación de algoritmos",
+    "Redes de comunicación",
+    "Pensamiento social cristiano",
+    "Filosofía",
+    "Álgebra vectorial y matrices",
+    "Programación orientada a objetos",
+    "Análisis de diseño y base de datos",
+    "Desarrollo de Aplic. Web con Soft. Interpret. en el Cliente",
+    "Administración de Servicios en la Nube"
+  ],
+  "ingenieria": [
+    "Matemáticas 1",
+    "Programación de algoritmos",
+    "Desarrollo de Aplicaciones con Software Propietario",
+    "Pensamiento social cristiano",
+    "Antropologia Filosofíca",
+    "Álgebra vectorial y matrices",
+    "Programación orientada a objetos",
+    "Análisis de diseño y base de datos",
+    "Desarrollo de Aplic. Web con Soft. Interpret. en el Cliente",
+    "Administración de Servicios en la Nube"
+  ]
 }

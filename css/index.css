@@ -1,26 +1,72 @@
+
 body {
- 
-    
-    /* Old browsers */
-    background: #c46e78;
-    /* FF3.6+ */
-    background: -moz-linear-gradient(top, #efc5ca 0%, #6818b3 22%, #50a5dd 84%, #0f72b4
-   100%);
-    /* Chrome,Safari4+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #efc5ca), colorstop(22%, #b72231), color-stop(84%, #d24b5a), color-stop(100%, #f18e99));
-    /* Chrome10+,Safari5.1+ */
-    background: -webkit-linear-gradient(top, #4422a1 0%, #0004ff 22%, #0004ff 84%, #0004ff
-   100%);
-    /* Opera 11.10+ */
-    background: -o-linear-gradient(top, #363753 0%, #5900ff 22%, #0004ff 84%, #0004ff
-   100%);
-    /* IE10+ */
-    background: -ms-linear-gradient(top, #0004ff 0%, #0004ff 22%, #0004ff 84%, #0004ff
-   100%);
-    /* W3C */
-    background: linear-gradient(to bottom, #0004ff 0%, #0004ff 22%, #0004ff 84%, #0004ff
-   100%);
-    /* IE6-9 */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#efc5ca',
-   endColorstr='#f18e99', GradientType=0);
-    }
+    background-color: #0a0253;
+}
+
+
+h1, h2, h3, h4, h5, h6,
+p {
+    color: rgb(228, 248, 45);
+}
+
+#style {
+    background-color: #fff;
+    color: #000000;
+    border: 1px solid #fff;
+}
+
+a {
+    color: white; 
+}
+
+a:hover {
+    color: #0056b3; 
+}
+
+
+.button {
+    background-color: #007bff; 
+    color: white; 
+    border: none;
+}
+
+.button:hover {
+    background-color: #0056b3; 
+}
+
+
+.container {
+    background-color: #0a0253;
+    border: 1px solid #0a0253; 
+    padding: 20px;
+}
+
+
+.footer {
+    background-color: #333;
+    color: #000000; 
+    padding: 10px 0;
+}
+
+
+.nav {
+    background-color: #333; 
+    color: #000000; 
+}
+
+
+.dropdown-menu {
+    background-color: #000000; 
+    color: #333; 
+    border: 1px solid #000000; 
+}
+
+
+.dropdown-menu a {
+    color: #333; 
+}
+
+
+.dropdown-menu a:hover {
+    background-color: #000000; 
+}
